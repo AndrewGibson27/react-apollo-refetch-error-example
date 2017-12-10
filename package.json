@@ -1,7 +1,7 @@
 {
   "name": "react-apollo-refetch-error-example",
   "version": "0.1.0",
-  "description": "",
+  "description": "In reference to apollo-client ticket #2703",
   "author": "Andrew Gibson <atgibson27@gmail.com>",
   "repository": {
     "type": "git",

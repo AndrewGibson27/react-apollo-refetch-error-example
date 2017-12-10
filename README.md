@@ -1,4 +1,8 @@
-In reference to [`apollo-client`](https://github.com/apollographql/apollo-client) ticket.
+In reference to `apollo-client` [ticket](https://github.com/apollographql/apollo-client/issues/2703) #2703.
+
+Related tickets:
++ `react-apollo` [#1389](https://github.com/apollographql/react-apollo/issues/1389)
++ `react-apollo` [#1320](https://github.com/apollographql/react-apollo/issues/1320)
 
 ## The problem
 Refetching a query in `componentDidMount` whose resolver throws an error
