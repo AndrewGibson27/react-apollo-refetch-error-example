@@ -1,14 +1,14 @@
 {
-  "name": "react-apollo-isomorphic-boilerplate",
+  "name": "react-apollo-refetch-error-example",
   "version": "0.1.0",
   "description": "",
   "author": "Andrew Gibson <atgibson27@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AndrewGibson27/react-apollo-isomorphic-boilerplate"
+    "url": "https://github.com/AndrewGibson27/react-apollo-refetch-error-example"
   },
   "bugs": {
-    "url": "https://github.com/AndrewGibson27/react-apollo-isomorphic-boilerplate/issues"
+    "url": "https://github.com/AndrewGibson27/react-apollo-refetch-error-example/issues"
   },
   "scripts": {
     "start": "NODE_ENV=development node -r \"babel-register\" server/index.jsx",
